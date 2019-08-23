@@ -1,0 +1,7 @@
+
+"Flute lumineuse"
+
+Use Rabid Tau, an ADMP401 microphone module, and a WS2812b led.
+ADMP401 signal on A0 (p3), led strip on digital 0 (p14).
+
+Led is powered with 3.3V from tau regulator (< 3.5V mini). Works.
